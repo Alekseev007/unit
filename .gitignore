@@ -51,6 +51,8 @@ gradlew.bat
 native/
 settings.gradle
 wrapper/
+.tmp/
+jdks/
 
 
 
